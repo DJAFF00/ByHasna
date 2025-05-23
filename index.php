@@ -158,7 +158,7 @@
 									<figure class="product-style">
 										<img src="images/book2.jfif" alt="Books" class="product-item">
 										<!-- <button type="button" class="add-to-cart" data-product-tile="add-to-cart">Je veux</button> -->
-										<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+										<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Je veux</button>
 										</a>
 									</figure>
@@ -175,7 +175,7 @@
 									<figure class="product-style">
 										<img src="images/book.jfif" alt="Books" class="product-item">
 										<!-- <button type="button" class="add-to-cart" data-product-tile="add-to-cart">Je veux</button> -->
-										<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+										<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Je veux</button>
 										</a>
 									</figure>
@@ -191,7 +191,7 @@
 									<figure class="product-style">
 										<img src="images/book3.jfif" alt="Books" class="product-item">
 										<!-- <button type="button" class="add-to-cart" data-product-tile="add-to-cart">Je veux</button> -->
-										<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+										<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Je veux</button>
 										</a>
 									</figure>
@@ -207,7 +207,7 @@
 									<figure class="product-style">
 										<img src="images/book4.jfif" alt="Books" class="product-item">
 										<!-- <button type="button" class="add-to-cart" data-product-tile="add-to-cart">Je veux</button> -->
-										<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+										<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Je veux</button>
 										</a>
 									</figure>
@@ -293,7 +293,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book5.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -308,7 +308,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book6.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -323,7 +323,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book7.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -338,7 +338,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book8.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -356,7 +356,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book4.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -371,7 +371,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -386,7 +386,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book1.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -401,7 +401,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book13.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -422,7 +422,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book8.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -437,7 +437,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book4.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -452,7 +452,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -467,7 +467,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book1.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -486,7 +486,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book5.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -501,7 +501,7 @@
 								<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book13.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -520,7 +520,7 @@
 									<div class="product-item">
 										<figure class="product-style">
 											<img src="images/book7.jfif" alt="Books" class="product-item">
-											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+											<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 										</figure>
@@ -583,7 +583,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/livre1.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -599,7 +599,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/book10.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -615,7 +615,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/book11.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -631,7 +631,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/livre2.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -647,7 +647,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/livre3.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -663,7 +663,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/livre4.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -679,7 +679,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/livre5.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -695,7 +695,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/livre6.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -711,7 +711,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/livre7.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -727,7 +727,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/livre8.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
@@ -743,7 +743,7 @@
 							<div class="product-item">
 								<figure class="product-style">
 									<img src="images/livre9.jfif" alt="Books" class="product-item">
-									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20ce%20livre.">
+									<a href="https://wa.me/22958684225?text=Bonjour%2C%20je%20souhaite%20commander%20un%20livre.">
 											<button type="button" class="add-to-cart" data-product-tile="add-to-cart">Commander</button>
 										</a>
 								</figure>
